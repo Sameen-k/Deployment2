@@ -36,7 +36,7 @@ In order to unzip the zip file you must grant the file read and write permission
 
 ``sudo chmod u+rwx 1.0.0.1.zip`` 
 
-Then you can unzip the file into a directory you can use the following command:
+Then you can unzip the file into a folder using the following command:
 
 ``sudo unzip 1.0.0.1.zip -d jenkinsD2``
 
